@@ -1,7 +1,7 @@
-Copyright (c) _2024-2025_, _ChenhaoNeko (2732578462@qq.com)_,  
-with Reserved Font Name _"Chenhao"_.
+Copyright (c) 2024-2025, ChenhaoUwU (2732578462@qq.com),  
+with Reserved Font Names "Chenhao" and "ChenhaoUwU".
 
-Copyright (c) _2019-2023_, _Minseo Lee (itoupluk427@gmail.com).
+Copyright (c) 2019-2023, Minseo Lee (itoupluk427@gmail.com).
 
 &nbsp;
 
