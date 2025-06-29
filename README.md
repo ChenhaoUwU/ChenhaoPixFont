@@ -33,4 +33,4 @@
 * **[Minseo Lee](https://quiple.dev/)** 等开源原版日（韩）文字体；
 * **Bits N' Picas** 提供制作工具；
 * **[Galmuri](https://github.com/quiple/galmuri)、[方舟像素字体](https://github.com/TakWolf/ark-pixel-font)、[俐方体11号](https://github.com/ACh-K/Cubic-11)、[秋空黑体MN](https://github.com/ChiuMing-Neko/ChiuKongGothic)** 等字体提供参考字形；
-* **[Hansha2011](https://github.com/Hansha2011)、[scott0107000](https://github.com/scott0107000)** 等小伙伴为本项目提供支持。
+* **[Hansha2011](https://github.com/Hansha2011)、[scott0107000](https://github.com/scott0107000)、[diaowinner](https://github.com/diaowinner)、[狼人小林](https://github.com/TakWolf)** 等小伙伴为本项目提供支持。
